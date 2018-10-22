@@ -1,0 +1,26 @@
+{ 
+    "uuid": "", 
+    
+    "time mark": {
+        "year": "",
+        "month": "",
+        "day": ""
+    },
+
+    "title": {
+        "parsing method": "bibtex",
+        "content": "ref.bib"
+    },
+
+    "quickaccess": {
+        "bibtex": "ref.bib",
+        "link": "",
+        "tldr": ""
+    },
+
+    "body": {
+        "parsing method": "md",
+        "content": "content.md",
+        "show last modified": "true"
+    }
+}
